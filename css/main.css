@@ -10,12 +10,42 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-}
-
-html {
-  box-sizing: border-box;
+  background-color: #242423;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+header {
+  background-color: #444;
+}
+
+h1 {
+  color: #fff;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+}
+
+.one {
+  background-color: #333;
+}
+
+.two {
+  background-color: #222;
+}
+
+.three {
+  background-color: #444;
+}
+
+.four {
+  background-color: #555;
+}
+
+.five {
+  background-color: #666;
 }
