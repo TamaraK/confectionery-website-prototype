@@ -21,13 +21,40 @@ header {
   background-color: #444;
 }
 
+figure {
+  margin: 0;
+}
+
+.img-flex {
+  width: 100%;
+  margin: 0;
+}
+
 h1 {
   color: #fff;
   margin: 0;
+  text-align: center;
 }
 
 body {
   margin: 0;
+}
+
+.nav {
+  text-align: center;
+  text-decoration: none;
+  list-style-type: none;
+  background-color: #555;
+  padding: .5em;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav a:hover {
+  background-color: #666;
 }
 
 .one {
