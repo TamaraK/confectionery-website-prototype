@@ -56,25 +56,19 @@ body {
 }
 
 .nav a:hover {
-  background-color: #666;
+  color: #660;
 }
 
-.one {
-  background-color: #333;
+.img-flex-1 {
+  max-width: 200px;
 }
 
-.two {
-  background-color: #222;
+p {
+  text-align: center;
+  color: #fff;
 }
 
-.three {
-  background-color: #444;
-}
-
-.four {
-  background-color: #555;
-}
-
-.five {
-  background-color: #666;
+.sub {
+  text-decoration: underline;
+  padding: .5em;
 }
