@@ -4,6 +4,7 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
+
 html {
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -56,7 +57,7 @@ body {
 }
 
 .nav a:hover {
-  color: #660;
+  color: 	#DCDCDC;
 }
 
 .img-flex-1 {
@@ -76,4 +77,30 @@ p {
 .link-card {
   text-decoration: none;
   color: #fff;
+  text-align: center;
+
+}
+
+.chef-card {
+  background-color: #444;
+  border-radius: 8px;
+}
+
+.link-card a:hover {
+  background-color: #F5F5F5;
+
+}
+
+@media only screen and (min-width: 25em) {
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em) {
+
+}
+
+@media only screen and (min-width: 90em) {
+
 }
