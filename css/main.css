@@ -72,3 +72,8 @@ p {
   text-decoration: underline;
   padding: .5em;
 }
+
+.link-card {
+  text-decoration: none;
+  color: #fff;
+}
