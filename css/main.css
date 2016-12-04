@@ -64,6 +64,10 @@ body {
   max-width: 200px;
 }
 
+.img-flex-2 {
+  max-width: 200px;
+}
+
 p {
   text-align: center;
   color: #fff;
@@ -93,6 +97,7 @@ p {
 
 .para {
   margin: .5em;
+  padding: 1em;
 }
 
 @media only screen and (min-width: 25em) {
