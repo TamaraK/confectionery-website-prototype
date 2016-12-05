@@ -73,6 +73,11 @@ body {
   color: #dcdcdc;
 }
 
+.menu {
+  overflow: hidden;
+  border: 1px solid red;
+}
+
 .mont-noir {
   float:right;
 }
