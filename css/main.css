@@ -75,23 +75,33 @@ body {
 
 .menu {
   overflow: hidden;
-  border: 1px solid red;
 }
 
 .mont-noir {
-  float:right;
+  float: right;
+  width: 300px;
+  margin-left: 3em;
 }
 
 .marnier {
   float: left;
+  width: 300px;
+  clear: right;
+  margin-right: 3em;
 }
 
 .canadian {
   float: right;
+  width: 300px;
+  clear: left;
+  margin-left: 3em;
 }
 
 .strawberry {
   float: left;
+  width: 300px;
+  clear: right;
+  margin-right: 3em;
 }
 
 .img-flex-1 {
