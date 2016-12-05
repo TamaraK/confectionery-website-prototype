@@ -73,6 +73,22 @@ body {
   color: #dcdcdc;
 }
 
+.mont-noir {
+  float:right;
+}
+
+.marnier {
+  float: left;
+}
+
+.canadian {
+  float: right;
+}
+
+.strawberry {
+  float: left;
+}
+
 .img-flex-1 {
   max-width: 200px;
   margin: 2em;
