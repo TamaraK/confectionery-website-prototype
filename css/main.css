@@ -39,10 +39,16 @@ figcaption {
   bottom: 10px;
 }
 
+.figcap {
+  color: #242423;
+  font-weight: bolder;
+}
+
 h1 {
   color: #fff;
   margin: 0;
   text-align: center;
+  font-size: 3em;
 }
 
 body {
@@ -56,10 +62,7 @@ body {
   background-color: #444;
   padding: .5em;
   max-width: 320px;
-}
-
-.nav li {
-  display: inline-block;
+  font-size: 1.15em;
 }
 
 .nav a {
@@ -87,6 +90,7 @@ p {
 .sub {
   text-decoration: underline;
   padding: .5em;
+  font-size: 1.15em;
 }
 
 .link-card {
@@ -118,7 +122,22 @@ h2 {
 }
 
 .social {
+  width: 100%;
+}
 
+.twit {
+  display: inline-block;
+  padding: 3em;
+}
+
+.fb {
+  display: inline-block;
+  padding: 3em;
+}
+
+.insta {
+  display: inline-block;
+  padding: 3em;
 }
 
 .btn:hover {
@@ -154,7 +173,11 @@ h2 {
   }
 
   .nav {
-    max-width: 38em;
+    max-width: 100%;
+  }
+
+  .nav li {
+    display: inline-block;
   }
 
 }
@@ -166,7 +189,7 @@ h2 {
   }
 
   .nav {
-    max-width: 60em;
+    max-width: 100%;
   }
 
 }
@@ -178,7 +201,7 @@ h2 {
   }
 
   .nav {
-    max-width: 90em;
+    max-width: 100%;
   }
 
 }
