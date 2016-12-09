@@ -59,7 +59,7 @@ body {
   text-decoration: none;
   list-style-type: none;
   background-color: #444;
-  padding: .5em;
+  padding: 0 .5em .5em;
   max-width: 320px;
   font-size: 1.15em;
 }
@@ -240,6 +240,43 @@ footer {
     padding-right: 1.5em;
   }
 
+  .img-flex-1 {
+    max-width: 400px;
+    margin: 3em;
+  }
+
+  .img-flex-2 {
+    max-width: 400px;
+    margin: 3em;
+  }
+
+  .mont-noir {
+    float: right;
+    width: 400px;
+    margin-left: 3em;
+  }
+
+  .marnier {
+    float: left;
+    width: 400px;
+    clear: right;
+    margin-right: 3em;
+  }
+
+  .canadian {
+    float: right;
+    width: 400px;
+    clear: left;
+    margin-left: 3em;
+  }
+
+  .strawberry {
+    float: left;
+    width: 400px;
+    clear: right;
+    margin-right: 3em;
+  }
+
   .chef-card {
     max-width: 500px;
     display: block;
@@ -278,6 +315,43 @@ footer {
     padding-right: 3em;
   }
 
+  .img-flex-1 {
+    max-width: 450px;
+    margin: 2em;
+  }
+
+  .img-flex-2 {
+    max-width: 450px;
+    margin: 2em;
+  }
+
+  .mont-noir {
+    float: right;
+    width: 450px;
+    margin-left: 3em;
+  }
+
+  .marnier {
+    float: left;
+    width: 450px;
+    clear: right;
+    margin-right: 3em;
+  }
+
+  .canadian {
+    float: right;
+    width: 450px;
+    clear: left;
+    margin-left: 3em;
+  }
+
+  .strawberry {
+    float: left;
+    width: 450px;
+    clear: right;
+    margin-right: 3em;
+  }
+
   .twit {
     padding-left: 5em;
     padding-right: 5em;
@@ -309,6 +383,43 @@ footer {
   .nav li {
     padding-left: 4em;
     padding-right: 4em;
+  }
+
+  .img-flex-1 {
+    max-width: 500px;
+    margin: 2em;
+  }
+
+  .img-flex-2 {
+    max-width: 500px;
+    margin: 2em;
+  }
+
+  .mont-noir {
+    float: right;
+    width: 500px;
+    margin-left: 3em;
+  }
+
+  .marnier {
+    float: left;
+    width: 500px;
+    clear: right;
+    margin-right: 3em;
+  }
+
+  .canadian {
+    float: right;
+    width: 500px;
+    clear: left;
+    margin-left: 3em;
+  }
+
+  .strawberry {
+    float: left;
+    width: 500px;
+    clear: right;
+    margin-right: 3em;
   }
 
   .twit {
