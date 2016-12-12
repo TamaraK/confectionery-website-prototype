@@ -144,8 +144,12 @@ h2 {
 .chef-card {
   background-color: #444;
   border-radius: 10px;
-  margin: .5em;
+  margin: 0 auto;
+  width: 100%;
+}
 
+.chef {
+  padding: 1em;
 }
 
 .para {
@@ -390,10 +394,27 @@ footer {
   }
 
   .review {
-    max-width: 400px;
-    text-align: center;
     width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
   }
+
+  .sandra {
+    display: inline-block;
+    padding: 1em;
+    width: 40%;
+  }
+
+  .andrew {
+    display: inline-block;
+    padding: 1em;
+    width: 40%;
+  }
+
+  .maria {
+    display: inline-block;
+    padding: 1em;
+    width: 40%;
 
 }
 
