@@ -114,6 +114,10 @@ body {
   margin: 2em;
 }
 
+.img-2 {
+  padding-right: 2em;
+}
+
 p {
   text-align: center;
   color: #fff;
@@ -151,6 +155,7 @@ h2 {
 
 .social {
   width: 100%;
+  text-align: center;
 }
 
 .twit {
@@ -185,6 +190,7 @@ h2 {
   max-width: 400px;
   text-align: center;
   width: 100%;
+  display: block;
 }
 
 .sandra {
@@ -381,6 +387,12 @@ footer {
   .insta {
     padding-left: 5em;
     padding-right: 5em;
+  }
+
+  .review {
+    max-width: 400px;
+    text-align: center;
+    width: 100%;
   }
 
 }
