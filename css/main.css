@@ -269,7 +269,7 @@ footer {
     padding: 1em;
     width: 40%;
 
-}
+  }
 
 }
 
@@ -299,9 +299,9 @@ footer {
     margin: 3em;
   }
 
-.p {
-  max-width: 375px;
-}
+  .p {
+    max-width: 375px;
+  }
 
   .mont-noir {
     float: right;
@@ -373,7 +373,7 @@ footer {
     padding: 1em;
     width: 40%;
 
-}
+  }
 
 }
 
@@ -408,7 +408,6 @@ footer {
     max-width: 375px;
   }
 
-
   .mont-noir {
     float: right;
     width: 400px;
@@ -440,7 +439,6 @@ footer {
     max-width: 700px;
     display: block;
   }
-
 
   .twit {
     padding-left: 5em;
@@ -540,7 +538,6 @@ footer {
     max-width: 800px;
     display: block;
   }
-
 
   .twit {
     padding-left: 6em;
